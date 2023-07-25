@@ -1,0 +1,6 @@
+[submodule "HIPIE"]
+	path = HIPIE
+	url = git@github.com:berkeley-hipie/HIPIE.git
+[submodule "Segment-and-Track-Anything"]
+	path = Segment-and-Track-Anything
+	url = git@github.com:z-x-yang/Segment-and-Track-Anything.git
